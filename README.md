@@ -26,6 +26,17 @@
 
 # Ur data git repository
 
+<div
+   align="center">
+  <a
+     href="ur-overlappin.png">
+    <img
+       src="ur-overlappin.png"
+       width="500"
+    />
+  </a>
+</div>
+
 This repository contains
 [Ur](
   https://github.com/themartiancompany/evmfs)
